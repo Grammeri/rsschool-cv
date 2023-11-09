@@ -20,6 +20,12 @@ A motivated and results-driven software developer with a passion for creating ro
 - **Version Control**: GitHub
 - **Project management tools**: JIRA, TRELLO
 
+## Code Examples
+```javascript
+function multiply(a, b){
+  return a * b;
+}
+```
 ## Portfolio Projects
 [https://grammeri.github.io/Portfolio/](https://grammeri.github.io/Portfolio/)
 
