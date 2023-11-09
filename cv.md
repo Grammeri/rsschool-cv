@@ -7,6 +7,7 @@
 - **Email**: reacttsxgrammer@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/dmitry-nikolayev-a34978258/
 - **GitHub**: https://github.com/
+- **Discord**: Dmitry Nikolayev#9226
 
 ## Brief Self-Introduction
 A motivated and results-driven software developer with a passion for creating robust and scalable code. With hands-on experience in a variety of programming languages and frameworks, I aim to contribute positively to my team while continuing to grow professionally and technically.
