@@ -1,6 +1,4 @@
-
-![cv_photo](https://github.com/Grammeri/rsschool-cv/assets/89168093/536c8210-fae8-4176-a9f3-255e69b3fefe)
-
+![cv_photo_small](https://github.com/Grammeri/rsschool-cv/assets/89168093/3c612624-1bcd-4a62-a6cf-2249ff0f7301)
 # Dmitry Nikolayev
 
 ## Contact Information
