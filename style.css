@@ -1,1 +1,32 @@
+/* Сброс стандартных стилей браузера */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Установка базовых стилей шрифтов для всей страницы */
+body {
+    font-family: Arial, sans-serif; /* Можно выбрать любой шрифт по вашему вкусу */
+    font-size: 16px; /* Стандартный размер шрифта */
+    line-height: 1.6; /* Интерлиньяж (высота строки) */
+    color: #333; /* Цвет текста, обычно используется тёмно-серый или чёрный */
+    background-color: #fff; /* Цвет фона страницы */
+}
+
+/* Стили для заголовков */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal; 
+    margin-bottom: 1.2em; 
+}
+
+/* Дополнительные глобальные стили */
+a {
+    color: #0000EE; 
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
 
