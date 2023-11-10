@@ -1,2 +1,2 @@
 # rsschool-cv
-https://grammeri.github.io/rsschool-cv/cv
+https://grammeri.github.io/rsschool-cv/
